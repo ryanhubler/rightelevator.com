@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rightelevator.com",
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -59,7 +59,7 @@
       "settings": {
         "main": true,
         "title": "Right Elevator | Home",
-        "meta_descr": "",
+        "meta_descr": "With over 40 years of industry experience, the team at Right Elevator stands ready to custom build a solution to meet your elevator needs. Whether it’s maintenance, service, repair, testing, modernization, or new construction, Right Elevator is ready and able to assist.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1212,7 +1212,7 @@
     },
     "contact.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Address: 901 Oak St., Johnstown, PA 15902\nEmail: sales@rightelevator.com\nPhone: +1 (814)-254-4194",
         "title": "Right Elevator | Contact",
         "order": 6
       },
@@ -1886,7 +1886,7 @@
     },
     "services.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Maintenance\nModernization \nNew Construction",
         "title": "Right Elevator | Services",
         "order": 7
       },
